@@ -1,3 +1,13 @@
 # biom5350-seq-tools
 
-This is for module 34 of CIS5350. A small python script to test coding and git skills. Prints out some stuff about genetics when run against a file.
+### Description
+A small python script to test knowledge on python and git.
+
+### Usage
+Run the script using the following command: `python gc_content.py example.fasta`
+The script will then output stats on sequences, such as how AT or GC rich it is.
+
+### Author
+Naomi Straub
+
+CIS 5350
